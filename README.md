@@ -36,8 +36,8 @@ La implementación fue mínima y directa, cumpliendo con los requisitos de cada 
 •	Renombrado de variables y métodos: Se renombraron variables y métodos para mayor claridad y comprensión del código.
 •	Eliminación de código duplicado: Se eliminó el código duplicado en los métodos aritméticos, promoviendo la reutilización y simplificación del código.
 •	Aplicación de principios SOLID: Se aplicaron principios SOLID donde fue pertinente para mejorar la mantenibilidad y escalabilidad del código:
-	Responsabilidad Única: Cada clase y método ahora tiene una única responsabilidad.
-	Abierto/Cerrado: Las clases son abiertas para extensión pero cerradas para modificación.
+  - Responsabilidad Única: Cada clase y método ahora tiene una única responsabilidad.
+  - Abierto/Cerrado: Las clases son abiertas para extensión pero cerradas para modificación.
 •	Separación de lógica en métodos auxiliares: Se separó la lógica en métodos auxiliares para facilitar pruebas futuras y mejorar la legibilidad.
 •	Uso de patrones de diseño: Se consideraron patrones de diseño (como el patrón Estrategia o el patrón Comando) para resolver problemas recurrentes y mejorar la estructura del código.
 - Interpretación de los resultados:
