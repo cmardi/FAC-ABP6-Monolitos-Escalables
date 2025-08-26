@@ -1,4 +1,4 @@
-# Created at 2025-08-23T01:50:28.410
+# Created at 2025-08-25T21:14:10.151
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Proyectos\Github\ABP6-Monolitos-Escalables\calculadora-tdd\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
